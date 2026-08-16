@@ -1,5 +1,21 @@
 # @medusajs/dashboard
 
+## 2.19.1
+
+### Patch Changes
+
+- [#16450](https://github.com/medusajs/medusa/pull/16450) [`e528fc5bd2cbcd9995694953580a20e525eafb9c`](https://github.com/medusajs/medusa/commit/e528fc5bd2cbcd9995694953580a20e525eafb9c) Thanks [@lazerg](https://github.com/lazerg)! - fix(dashboard): set the lang attribute on the html element
+
+- [#16006](https://github.com/medusajs/medusa/pull/16006) [`5796a0c00f35eba2533847f6697fae8d7c282ae7`](https://github.com/medusajs/medusa/commit/5796a0c00f35eba2533847f6697fae8d7c282ae7) Thanks [@iruzen-dono](https://github.com/iruzen-dono)! - fix(dashboard): handle deleted stock locations in order fulfillment section
+
+- [#16425](https://github.com/medusajs/medusa/pull/16425) [`7e421e0f0c60abf64bcfeccea93071202ec78d55`](https://github.com/medusajs/medusa/commit/7e421e0f0c60abf64bcfeccea93071202ec78d55) Thanks [@sradevski](https://github.com/sradevski)! - Add support for configuring the global search in admin
+
+- Updated dependencies [[`7e421e0f0c60abf64bcfeccea93071202ec78d55`](https://github.com/medusajs/medusa/commit/7e421e0f0c60abf64bcfeccea93071202ec78d55)]:
+  - @medusajs/admin-shared@2.19.1
+  - @medusajs/js-sdk@2.19.1
+  - @medusajs/icons@2.19.1
+  - @medusajs/ui@4.2.2
+
 ## 2.19.0
 
 ### Minor Changes

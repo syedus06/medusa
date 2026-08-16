@@ -1,5 +1,70 @@
 # Change Log
 
+## 2.19.1
+
+### Patch Changes
+
+- [#16361](https://github.com/medusajs/medusa/pull/16361) [`51c48dcb472c3b232b88337030945b2b651e90f8`](https://github.com/medusajs/medusa/commit/51c48dcb472c3b232b88337030945b2b651e90f8) Thanks [@sradevski](https://github.com/sradevski)! - Add a postgres search provider
+
+- Updated dependencies [[`2101adb7eac34bdb90fa9606e875995105cf7f7c`](https://github.com/medusajs/medusa/commit/2101adb7eac34bdb90fa9606e875995105cf7f7c), [`51c48dcb472c3b232b88337030945b2b651e90f8`](https://github.com/medusajs/medusa/commit/51c48dcb472c3b232b88337030945b2b651e90f8), [`2a5dd813a7e1d5094cb81f688e2e9e7cc8fd3543`](https://github.com/medusajs/medusa/commit/2a5dd813a7e1d5094cb81f688e2e9e7cc8fd3543)]:
+  - @medusajs/admin-bundler@2.19.1
+  - @medusajs/search-postgres@2.19.1
+  - @medusajs/search-local@2.19.1
+  - @medusajs/core-flows@2.19.1
+  - @medusajs/draft-order@2.19.1
+  - @medusajs/analytics@2.19.1
+  - @medusajs/api-key@2.19.1
+  - @medusajs/auth@2.19.1
+  - @medusajs/caching@2.19.1
+  - @medusajs/cart@2.19.1
+  - @medusajs/currency@2.19.1
+  - @medusajs/customer@2.19.1
+  - @medusajs/file@2.19.1
+  - @medusajs/fulfillment@2.19.1
+  - @medusajs/index@2.19.1
+  - @medusajs/inventory@2.19.1
+  - @medusajs/link-modules@2.19.1
+  - @medusajs/locking@2.19.1
+  - @medusajs/notification@2.19.1
+  - @medusajs/order@2.19.1
+  - @medusajs/payment@2.19.1
+  - @medusajs/pricing@2.19.1
+  - @medusajs/product@2.19.1
+  - @medusajs/promotion@2.19.1
+  - @medusajs/rbac@2.19.1
+  - @medusajs/region@2.19.1
+  - @medusajs/sales-channel@2.19.1
+  - @medusajs/search@2.19.1
+  - @medusajs/settings@2.19.1
+  - @medusajs/stock-location@2.19.1
+  - @medusajs/store@2.19.1
+  - @medusajs/tax@2.19.1
+  - @medusajs/translation@2.19.1
+  - @medusajs/user@2.19.1
+  - @medusajs/workflow-engine-inmemory@2.19.1
+  - @medusajs/workflow-engine-redis@2.19.1
+  - @medusajs/framework@2.19.1
+  - @medusajs/event-bus-redis@2.19.1
+  - @medusajs/cache-inmemory@2.19.1
+  - @medusajs/cache-redis@2.19.1
+  - @medusajs/event-bus-local@2.19.1
+  - @medusajs/analytics-local@2.19.1
+  - @medusajs/analytics-posthog@2.19.1
+  - @medusajs/auth-emailpass@2.19.1
+  - @medusajs/auth-github@2.19.1
+  - @medusajs/auth-google@2.19.1
+  - @medusajs/auth-oidc@2.19.1
+  - @medusajs/caching-redis@2.19.1
+  - @medusajs/file-local@2.19.1
+  - @medusajs/file-s3@2.19.1
+  - @medusajs/fulfillment-manual@2.19.1
+  - @medusajs/locking-postgres@2.19.1
+  - @medusajs/locking-redis@2.19.1
+  - @medusajs/notification-local@2.19.1
+  - @medusajs/notification-sendgrid@2.19.1
+  - @medusajs/payment-stripe@2.19.1
+  - @medusajs/telemetry@2.19.1
+
 ## 2.19.0
 
 ### Minor Changes

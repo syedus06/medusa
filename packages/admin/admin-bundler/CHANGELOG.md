@@ -1,5 +1,18 @@
 # @medusajs/admin-bundler
 
+## 2.19.1
+
+### Patch Changes
+
+- [#16449](https://github.com/medusajs/medusa/pull/16449) [`2101adb7eac34bdb90fa9606e875995105cf7f7c`](https://github.com/medusajs/medusa/commit/2101adb7eac34bdb90fa9606e875995105cf7f7c) Thanks [@lazerg](https://github.com/lazerg)! - fix(admin-bundler): allow zooming in the generated admin HTML
+
+  The viewport meta tag written to `.medusa/client/index.html` set `user-scalable=no`, which blocked pinch-to-zoom and browser zoom in the admin dashboard and failed WCAG 1.4.4.
+
+- Updated dependencies [[`e528fc5bd2cbcd9995694953580a20e525eafb9c`](https://github.com/medusajs/medusa/commit/e528fc5bd2cbcd9995694953580a20e525eafb9c), [`5796a0c00f35eba2533847f6697fae8d7c282ae7`](https://github.com/medusajs/medusa/commit/5796a0c00f35eba2533847f6697fae8d7c282ae7), [`7e421e0f0c60abf64bcfeccea93071202ec78d55`](https://github.com/medusajs/medusa/commit/7e421e0f0c60abf64bcfeccea93071202ec78d55)]:
+  - @medusajs/dashboard@2.19.1
+  - @medusajs/admin-shared@2.19.1
+  - @medusajs/admin-vite-plugin@2.19.1
+
 ## 2.19.0
 
 ### Minor Changes
